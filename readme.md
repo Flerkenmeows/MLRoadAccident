@@ -132,7 +132,7 @@ Scalable and modular ML pipeline
 
 ▶️ How to Run
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/accident-prediction.git
+git clone https://github.com/Flerkenmeows/MLRoadAccident.git
 cd accident-prediction
 
 2️⃣ Install Dependencies
